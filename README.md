@@ -28,10 +28,14 @@ Make sure to use conditional formatting that will highlight positive change in g
 
 The result should match the following image:
 
+![image](https://github.com/Ngot97/VBA-challenge/assets/150645979/5e408958-a734-4c7e-87bb-19768c4f7a41)
+
 Moderate solution
 
 Bonus
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
+
+![image](https://github.com/Ngot97/VBA-challenge/assets/150645979/893cd73e-62b9-47eb-9cb8-9f1d6fcc313a)
 
 Hard solution
 
